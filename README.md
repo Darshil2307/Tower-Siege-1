@@ -1,2 +1,1 @@
-# Tower-Siege-1
-This game.
+# TowerSiege-1
